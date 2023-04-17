@@ -2,3 +2,11 @@ body {
     background-color: #F0F0F6;
     font-family: 'Inter';
 }
+
+.border-bottom {
+    border: none !important;
+}
+
+.nav-pills .nav-link {
+    margin-bottom: 20px;
+}
